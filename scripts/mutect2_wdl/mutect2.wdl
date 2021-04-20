@@ -1,5 +1,5 @@
 version 1.0
-
+#
 ## Copyright Broad Institute, 2017
 ##
 ## This WDL workflow runs GATK4 Mutect 2 on a single tumor-normal pair or on a single tumor sample,
